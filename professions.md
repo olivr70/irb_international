@@ -1,10 +1,10 @@
-# International Justice
+# Legal professions
 
-Welcome to Institut Robert Badinter international ressources on International Justice.
+Welcome to Institut Robert Badinter international ressources on legal professions.
 
 [Home](../index)   
 
-## Cooperation and complementarity: A new impetus for international justice
+## Court work: a multidisciplinary analysis. Foreword and Summary
 [Read on our website]( https://institutrobertbadinter.fr/fr/publications/cooperation-and-complementarity-report-a-new-impetus-for-international-justice/)
 
 <img src="./assets/images/cover-cooperation.png" width="100" alt="Cover of Cooperation and complementarity"/>

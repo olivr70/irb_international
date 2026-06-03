@@ -20,7 +20,7 @@ Drawing on interdisciplinary discussions held in Strasbourg, it aims to foster a
 [Read on our website](https://institutrobertbadinter.fr/fr/publications/the-new-landscape-of-cyberjustice-information-regulation-and-democracy/)
 
 
-<img src="/assets/images/cover-the-new-landscape-of-cyberjustice.png" width="100" alt="Cover of Decoding AI in 2025"/>
+<img src="./assets/images/cover-the-new-landscape-of-cyberjustice.png" width="100" alt="Cover of Decoding AI in 2025"/>
 
 Cyberjustice Europe 2023 convened leading experts from across Europe and beyond to examine the opportunities and risks created by digital transformation in justice.
 Discussions focused on AI governance, cybercrime, online justice services, augmented legal professions, and the future of democratic institutions in a technological age.
