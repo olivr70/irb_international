@@ -8,9 +8,9 @@ Rooted in concerns about the long-term consequences of human activity, the notio
 Drawing on international legal developments, this study examines how the concept is reshaping environmental governance and judicial practice.
 
 Available in multiple languages : 
-- 🇬🇧 [The law and rights of future generations](./assets/pdf/dgf.pdf#page=29)
-- 🇩🇪 [Recht(e) zukünftiger Generationen](./assets/pdf/dgf.pdf#page=75)
-- 🇪🇸 [Los derechos de las generaciones futuras](./assets/pdf/dgf.pdf#page=51)
-- 🇵🇹 [Direito(s) das gerações futuras](./assets/pdf/dgf.pdf#page=99) 
+- 🇬🇧 [The law and rights of future generations](./assets/pdf/dgf.pdf#page=23)
+- 🇩🇪 [Recht(e) zukünftiger Generationen](./assets/pdf/dgf.pdf#page=57)
+- 🇪🇸 [Los derechos de las generaciones futuras](./assets/pdf/dgf.pdf#page=39)
+- 🇵🇹 [Direito(s) das gerações futuras](./assets/pdf/dgf.pdf#page=75) 
 
 > SONYA DJEMNI-WAGNER, « Summary of the study on the Rights of Future Generations – Translations into English, Spanish, German and Portuguese », Paris, Institut Robert Badinter, 2023.
