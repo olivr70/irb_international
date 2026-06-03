@@ -13,9 +13,9 @@ Our ressources are organized :
 
 ## Recursos em português
 
-> SONYA DJEMNI-WAGNER, « Direito(s) das gerações futuras », Victoria Vanneau (préf.), Summary of the study on the Rights of Future Generations – Translations into English, Spanish, German and Portuguese, Institut Robert Badinter, [s. l.], [s. n.], 2023, p. 75‑89. [Read online](./dgf/dgf_es)
+ [Direito(s) das gerações futuras - PREFACIO y RESUMEN](./dgf/dgf_es)
 
 ## Recursos disponibles en español
 
-> SONYA DJEMNI-WAGNER, « Los derechos de las generaciones futuras », Victoria Vanneau (préf.), Summary of the study on the Rights of Future Generations – Translations into English, Spanish, German and Portuguese, Institut Robert Badinter, [s. l.], [s. n.], 2023, p. 39‑55. [Read online](./dgf/dgf_pt)
+[Los derechos de las generaciones futuras - PREFACIO y RESUMEN](./dgf/dgf_pt)
 
