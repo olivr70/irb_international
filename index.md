@@ -13,9 +13,9 @@ Our ressources are organized :
 
 ## Recursos em português
 
- [Direito(s) das gerações futuras - PREFACIO y RESUMEN](./dgf/dgf_es)
+ [Direito(s) das gerações futuras - PREFACIO y RESUMEN](./dgf/dgf_es) [pdf](./dgf/dgf_pt#page=39)
 
 ## Recursos disponibles en español
 
-[Los derechos de las generaciones futuras - PREFACIO y RESUMEN](./dgf/dgf_pt)
+[Los derechos de las generaciones futuras - PREFACIO y RESUMEN](./dgf/dgf_pt) [pdf](./dgf/dgf_pt#page=75)
 
