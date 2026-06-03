@@ -14,4 +14,4 @@ It highlights the decisive role of work organization and professional collective
 
 
 
-> ANNE-SOPHIE DE LAMARZELLE et VALÉRIE SAGANT, « Synthèse de l’étude “Le travail en juridiction :  une analyse   pluridisciplinaire” », Paris, Institut Robert Badinter, 2024. https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/10/Synthese_TJ_final.pdf
+> ANNE-SOPHIE DE LAMARZELLE et VALÉRIE SAGANT, « Synthèse de l’étude “Le travail en juridiction :  une analyse   pluridisciplinaire” », Paris, Institut Robert Badinter, 2024.
