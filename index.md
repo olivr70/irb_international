@@ -1,7 +1,9 @@
 
 Welcome to Institut Robert Badinter internationl ressources repository.
 
-For all resources, mainly in French, [visit our website](https://institutrobertbadinter.fr)
+For all resources, mainly in French, [visit our website](https://institutrobertbadinter.fr).
+
+For French readers, [resources in french on other parts of the world](./by_country.md)
 
 
 ## Resources in English 🇬🇧
