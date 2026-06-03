@@ -5,7 +5,7 @@ Welcome to Institut Robert Badinter international ressources on legal profession
 [Home](../index)   
 
 ## Court work: a multidisciplinary analysis. Foreword and Summary
-[Read on our website]( https://institutrobertbadinter.fr/fr/publications/cooperation-and-complementarity-report-a-new-impetus-for-international-justice/)
+[Read on our website 🇫🇷]( https://institutrobertbadinter.fr/fr/publications/le-travail-en-juridiction-analyse-pluridisciplinaire/)
 
 <img src="./assets/images/cover-travail.png" width="100" alt="Cover of Wourt work : a multidisciplinary analyis"/>
 
