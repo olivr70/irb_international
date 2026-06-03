@@ -1,4 +1,4 @@
-# Institut Robert Badinter ressources in English - Digital Justice
+# Digital Justice
 
 Welcome to Institut Robert Badinter international ressources on Digital Justice.
 
