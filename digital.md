@@ -2,6 +2,8 @@
 
 Welcome to Institut Robert Badinter international ressources on Digital Justice.
 
+[Home](../index)   
+
 ## Decoding AI in 2025: INSIGHTS INTO A TECHNOLOGY ON ITS WAY OF NORMALIZATION
 [On our website](https://institutrobertbadinter.fr/fr/publications/the-new-landscape-of-cyberjustice-information-regulation-and-democracy/)
 
