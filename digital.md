@@ -24,6 +24,9 @@ Based on the interdisciplinary discussions that took place during the day, these
 ## The new landscape of cyberjustice : Information, regulation, and democracy
 [On our website](https://institutrobertbadinter.fr/fr/publications/the-new-landscape-of-cyberjustice-information-regulation-and-democracy/)
 
+
+<img src="/assets/images/cover-the-new-landscape-of-cyberjustice.png" width="100" alt="Cover of Decoding AI in 2025"/>
+
 Proceedings of the Cyberjustice Conference organized by IERDJ in partnership with the Council of Europe and the Montreal Cyberjustice Laboratory on Friday, November 24, 2023 at the Council of Europe in Strasbourg.
 
 The Cyberjustice Europe 2023 Conference is an event that brings together researchers, experts and professionals from many countries to discuss the impact of technology on justice policies and practices. The members of this rich international community, brought together for the second time by the Council of Europe, IERDJ (Paris), the Cyberjustice Laboratory (Montreal) and the University of Strasbourg, will spend a day discussing and providing answers to questions concerning the regulation of AI, developments in cybercrime, the need for public policies to support the development of online platforms and services, the impact of open access to legal and judicial information, augmented legal professions, the virtual future of the courtroom, and whether technological progress is still a friend of democracy.
