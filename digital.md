@@ -5,7 +5,7 @@ Welcome to Institut Robert Badinter international ressources on Digital Justice.
 ## Decoding AI in 2025: INSIGHTS INTO A TECHNOLOGY ON ITS WAY OF NORMALIZATION
 [On our website](https://institutrobertbadinter.fr/fr/publications/the-new-landscape-of-cyberjustice-information-regulation-and-democracy/)
 
-<imge src="https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/Capture-decran-2025-12-01-a-18.21.37-Moyenne.jpeg" width=100 alt="Cover of Decoding AI in 2025></img>
+<img src="https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/Capture-decran-2025-12-01-a-18.21.37-Moyenne.jpeg" width=100 alt="Cover of Decoding AI in 2025>cover</img>
 
 Proceedings of the Cyberjustice Conference organized by IERDJ in partnership with the Council of Europe and the Montreal Cyberjustice Laboratory on Friday, November 24, 2023 at the Council of Europe in Strasbourg.
 
