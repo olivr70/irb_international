@@ -14,11 +14,11 @@ Drawing on interdisciplinary discussions held in Strasbourg, it aims to foster a
 
 > « Decoding AI in 2025 - Insights into a Technology on its Way to Normalisation », Strasbourg, Institut Robert Badinter, 2025. https://institutrobertbadinter.fr/fr/publications/decoding-ai-in-2025/
 
-- JEAN-MICHEL GANASCIA, Opening conference:  But where is AI going?, p. 8‑14. Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=10)
-- Speaking the language  of generative AI, p. 15‑19. Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=17)
-- Will AI transform freedom  into destiny?, p. 20‑35. Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=22)
+- JEAN-MICHEL GANASCIA, Opening conference:  But where is AI going?, p. 8‑14. [Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=10)
+- Speaking the language  of generative AI, p. 15‑19. [Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=17)
+- Will AI transform freedom  into destiny?, p. 20‑35. [Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=22)
 - AI and legal professionals,  a great misunderstanding?, p. 36‑56. [Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=38)
-- THIBOUT Charles, Closing conference:  AI, a weapon of mass destruction?, p. 57‑62. Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=59)
+- THIBOUT Charles, Closing conference:  AI, a weapon of mass destruction?, p. 57‑62. [Read](https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/12/2025-Actes-DECODING-IA-2025-ENG-IRB.pdf#page=59)
 
 
 ## The new landscape of cyberjustice : Information, regulation, and democracy
