@@ -7,13 +7,11 @@ Welcome to Institut Robert Badinter international ressources on legal profession
 ## Court work: a multidisciplinary analysis. Foreword and Summary
 [Read on our website]( https://institutrobertbadinter.fr/fr/publications/cooperation-and-complementarity-report-a-new-impetus-for-international-justice/)
 
-<img src="./assets/images/cover-cooperation.png" width="100" alt="Cover of Cooperation and complementarity"/>
+<img src="./assets/images/cover-travail.png" width="100" alt="Cover of Wourt work : a multidisciplinary analyis"/>
 
-Against the backdrop of the war in Ukraine and the crisis of multilateralism, complementarity has become a central mechanism for advancing international criminal justice.
-This report presents the findings of a multi-stakeholder reflection conducted by the Cooperation and Complementarity Network throughout 2022.Against the backdrop of the war in Ukraine and the crisis of multilateralism, complementarity has become a central mechanism for advancing international criminal justice.
-This report presents the findings of a multi-stakeholder reflection conducted by the Cooperation and Complementarity Network throughout 2022.
-
-> JOËL HUBRECHT et ANTOINE BERNARD, « Cooperation and complementarity: A new impetus for international justice », Paris, Institut Robert Badinter, 2024.
+Through an interdisciplinary analysis of magistrates, court clerks, and lawyers, this study explores how contemporary transformations are reshaping professional identities within the justice system.
+It highlights the decisive role of work organization and professional collectives in preserving both the quality of justice and the meaning practitioners derive from their work.
 
 
 
+> ANNE-SOPHIE DE LAMARZELLE et VALÉRIE SAGANT, « Synthèse de l’étude “Le travail en juridiction :  une analyse   pluridisciplinaire” », Paris, Institut Robert Badinter, 2024. https://ierdj.fra1.digitaloceanspaces.com/media_library/2025/10/Synthese_TJ_final.pdf
