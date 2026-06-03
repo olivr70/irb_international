@@ -1,5 +1,5 @@
 
-[Home]({{ site.baseurl }})
+[Home](../index)  
 
 # Direito(s) das gerações futuras - PREFACIO y RESUMEN
 

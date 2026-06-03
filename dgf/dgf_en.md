@@ -1,5 +1,5 @@
 
-[Home](/)
+[Home](../index)  
 
 # The law and rights of future generations - FOREWORD and SUMMARY
 
