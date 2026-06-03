@@ -1,4 +1,3 @@
-# Institut Robert Badinter international ressources
 
 Welcome to Institut Robert Badinter internationl ressources repository.
 
