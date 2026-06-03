@@ -8,9 +8,10 @@ For all resources, mainly in French, [visit our website](https://institutrobertb
 
 Our ressources are organized : 
 - [International Justice](./international.md)
-- [Digital Justice](./digital.md)
+- [Environmental Justice](./environment.md)
 - [Justice and Democracy](./democracy.md)
 - [Legal professions](./professions.md)
+- [Digital Justice](./digital.md)
 
 
 ## Recursos disponibles en español 🇪🇸
