@@ -41,7 +41,9 @@
    
    
  ## Juridictions internationales
+ 
   - [ICC](https://institutrobertbadinter.fr/fr/publication_tag/cour-penale-internationale-cpi/)
   - [ICJ](https://institutrobertbadinter.fr/fr/publication_tag/cour-internationale-de-justice-cij/)
   - [TPIY](https://institutrobertbadinter.fr/fr/publication_tag/tribunal-penal-international-pour-lex-yougoslavie/)
   - [Sierra Leone Special Court](https://institutrobertbadinter.fr/fr/publication_tag/cour-speciale-pour-la-sierra-leone/)
+  
