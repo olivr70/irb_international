@@ -70,8 +70,8 @@
 	  <br>2024, Actes
     </td>
     <td>
-      <a href="https://institutrobertbadinter.fr/fr/publications/big-data-et-droit-penal-utilisation-comprehension-et-impacts-des-techniques-predictives-drop-it/" title="Big data et droit pénal">
-        <span class="text-cover">Big data et droit pénal</span>
+      <a href="./assets/pdf/presentoir-fr/big-data-droit-penal.pdf" title="Big data et droit pénal">
+        <img src="./assets/images/presentoir-fr/big-data-droit-penal.png" alt="Couverture de Big data et droit pénal"/>
       </a>
 	  <br>2021, n°17.38, Thomas LEFEVRE
     </td>
