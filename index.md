@@ -9,6 +9,7 @@ For French readers, [resources in french on other parts of the world](./by_count
 ## Resources in English 🇬🇧
 
 Our ressources are organized : 
+- [Display of English resources](./presentoir.md)
 - [International Justice](./international.md)
 - [Environmental Justice](./environment.md)
 - [Justice and Democracy](./democracy.md)
