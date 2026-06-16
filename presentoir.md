@@ -2,6 +2,29 @@
 
 [Home](./index)
 
+<style>
+  .display-cover-hover {
+    position: relative;
+    display: inline-block;
+  }
+
+  .display-cover-hover img {
+    display: block;
+  }
+
+  .display-cover-hover .hover-cover {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  }
+
+  .display-cover-hover:hover .hover-cover,
+  .display-cover-hover:focus .hover-cover {
+    opacity: 1;
+  }
+</style>
+
 <table>
   <tr>
     <td align="center">
@@ -10,13 +33,15 @@
       </a>
     </td>
     <td align="center">
-      <a href="./assets/pdf/dgf.pdf#page=23" title="The law and rights of future generations">
+      <a class="display-cover-hover" href="./assets/pdf/dgf.pdf#page=23" title="The law and rights of future generations">
         <img src="./assets/images/cover-dgf.png" width="180" alt="Cover of The law and rights of future generations"/>
+        <img class="hover-cover" src="./assets/images/cover-dgf-en-page-23.png" width="180" alt="Preview of page 23: The law and rights of future generations"/>
       </a>
     </td>
     <td align="center">
-      <a href="./assets/pdf/travail.pdf#page=29" title="Court work: a multidisciplinary analysis. Foreword and Summary">
+      <a class="display-cover-hover" href="./assets/pdf/travail.pdf#page=29" title="Court work: a multidisciplinary analysis. Foreword and Summary">
         <img src="./assets/images/cover-travail.png" width="180" alt="Cover of Court work: a multidisciplinary analysis"/>
+        <img class="hover-cover" src="./assets/images/cover-travail-en-page-29.png" width="180" alt="Preview of page 29: Court work: a multidisciplinary analysis"/>
       </a>
     </td>
   </tr>
