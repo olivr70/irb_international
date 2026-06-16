@@ -1,4 +1,6 @@
-# Présentoir français
+# Décoder l'IA : des promesses des outils aux réalités des usages 
+
+## Nos autres ressources sur ce thème
 
 [Accueil](./index)
 
