@@ -44,24 +44,21 @@
 	  <br>
     </td>
     <td>
-      <a href="./assets/pdf/presentoir-fr/droit-ia-rapport.pdf" title="Droit et intelligence artificielle">
-        <img src="./assets/images/presentoir-fr/droit-ia-rapport.png" alt="Couverture de Droit et intelligence artificielle"/>
+      <a href="./assets/pdf/presentoir-fr/droit-ia-rapport.pdf" title="Aurore HYDE et Agnès DELABORDE, Droit et intelligence artificielle, 2025, n° 20.21, ">
+        <img src="./assets/images/presentoir-fr/droit-ia-rapport.png" alt=""/>
       </a>
-	  <br>2025, n° 20.21, Aurore HYDE et Agnès DELABORDE
     </td>
     <td>
-      <a href="./assets/pdf/presentoir-fr/impact-numerique-vol1.pdf" title="Impact du numérique sur la justice - Volume 1">
+      <a href="./assets/pdf/presentoir-fr/impact-numerique-vol1.pdf" title="Sophie SONTAG-KOENIG, Impact du numérique sur la justice - Volume 1 - 2024, Etat des connaissances">
         <img src="./assets/images/presentoir-fr/impact-numerique-vol1.png" alt="Couverture de Impact du numérique sur la justice - Volume 1"/>
       </a>
-	  <br>2024, Etat des connaissances, Sophie SONTAG-KOENIG
     </td>
   </tr>
   <tr>
     <td>
-      <a href="./assets/pdf/presentoir-fr/impact-numerique-vol2.pdf" title="Impact du numérique sur la justice - Volume 2">
-        <img src="./assets/images/presentoir-fr/impact-numerique-vol2.png" alt="Couverture de Impact du numérique sur la justice - Volume 2"/>
+      <a href="./assets/pdf/presentoir-fr/impact-numerique-vol2.pdf" title="Impact du numérique sur la justice - Volume 2, 2024, Etat des connaissances">
+        <img src="./assets/images/presentoir-fr/impact-numerique-vol2.png" alt="Couverture de Impact du numérique sur la justice - Volume 2" />
       </a>
-	  <br>2024, Etat des connaissances
     </td>
     <td>
       <a href="https://institutrobertbadinter.fr/fr/publications/les-nouveaux-defis-de-la-cyberjustice-entre-information-regulation-et-democratie/" title="Les nouveaux défis de la cyberjustice">
@@ -70,18 +67,17 @@
 	  <br>2024, Actes
     </td>
     <td>
-      <a href="./assets/pdf/presentoir-fr/big-data-droit-penal.pdf" title="Big data et droit pénal">
-        <img src="./assets/images/presentoir-fr/big-data-droit-penal.png" alt="Couverture de Big data et droit pénal"/>
+      <a href="./assets/pdf/presentoir-fr/big-data-droit-penal.pdf" title="Thomas LEFEVRE, Big data et droit pénal, 2021, n°17.38">
+        <img src="./assets/images/presentoir-fr/big-data-droit-penal.png" alt="Couverture de Big data et droit pénal" />
       </a>
-	  <br>2021, n°17.38, Thomas LEFEVRE
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://institutrobertbadinter.fr/fr/publications/outils-de-justice-predictive-enjeux-et-cartographie-sociologique-des-professionnels-concernes/" title="Outils de justice prédictive">
+      <a href="https://institutrobertbadinter.fr/fr/publications/outils-de-justice-predictive-enjeux-et-cartographie-sociologique-des-professionnels-concernes/" title="Outils de justice prédictive - 2020 n°17.39, Marcel MORITZ">
         <span class="text-cover">Outils de justice prédictive</span>
       </a>
-    </td>
+	 </td>
     <td>
       <a href="https://institutrobertbadinter.fr/fr/publications/comment-le-numerique-transforme-le-droit-et-la-justice-par-de-nouveaux-usages-et-un-bouleversement-de-la-prise-de-decision-anticiper-les-evolutions-pour-les-accompagner-et-les-maitriser/" title="Comment le numérique transforme le droit et la justice">
         <span class="text-cover">Comment le numérique transforme le droit et la justice</span>
