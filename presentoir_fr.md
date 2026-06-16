@@ -41,16 +41,19 @@
       <a href="./assets/pdf/presentoir-fr/decoder-ia-2025.pdf" title="Décoder l'IA en 2025">
         <img src="./assets/images/presentoir-fr/decoder-ia-2025.png" alt="Couverture de Décoder l'IA en 2025"/>
       </a>
+	  <br>
     </td>
     <td>
       <a href="./assets/pdf/presentoir-fr/droit-ia-rapport.pdf" title="Droit et intelligence artificielle">
         <img src="./assets/images/presentoir-fr/droit-ia-rapport.png" alt="Couverture de Droit et intelligence artificielle"/>
       </a>
+	  <br>2025, n° 20.21, Aurore HYDE et Agnès DELABORDE
     </td>
     <td>
       <a href="./assets/pdf/presentoir-fr/impact-numerique-vol1.pdf" title="Impact du numérique sur la justice - Volume 1">
         <img src="./assets/images/presentoir-fr/impact-numerique-vol1.png" alt="Couverture de Impact du numérique sur la justice - Volume 1"/>
       </a>
+	  <br>2024, Etat des connaissances, Sophie SONTAG-KOENIG
     </td>
   </tr>
   <tr>
@@ -58,16 +61,19 @@
       <a href="./assets/pdf/presentoir-fr/impact-numerique-vol2.pdf" title="Impact du numérique sur la justice - Volume 2">
         <img src="./assets/images/presentoir-fr/impact-numerique-vol2.png" alt="Couverture de Impact du numérique sur la justice - Volume 2"/>
       </a>
+	  <br>2024, Etat des connaissances
     </td>
     <td>
       <a href="https://institutrobertbadinter.fr/fr/publications/les-nouveaux-defis-de-la-cyberjustice-entre-information-regulation-et-democratie/" title="Les nouveaux défis de la cyberjustice">
         <span class="text-cover">Les nouveaux défis de la cyberjustice</span>
       </a>
+	  <br>2024, Actes
     </td>
     <td>
       <a href="https://institutrobertbadinter.fr/fr/publications/big-data-et-droit-penal-utilisation-comprehension-et-impacts-des-techniques-predictives-drop-it/" title="Big data et droit pénal">
         <span class="text-cover">Big data et droit pénal</span>
       </a>
+	  <br>2021, n°17.38, Thomas LEFEVRE
     </td>
   </tr>
   <tr>
