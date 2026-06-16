@@ -5,6 +5,8 @@ For all resources, mainly in French, [visit our website](https://institutrobertb
 
 For French readers, [resources in french on other parts of the world](./by_country.md)
 
+French display on digital justice: [Présentoir français](./presentoir_fr.md)
+
 
 ## Resources in English 🇬🇧
 
